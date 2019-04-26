@@ -52,7 +52,7 @@ export const styles = {
     margin: 10px 0 10px;
   `,
   playground: css`
-    padding: 40px;
+    padding: 20px;
   `,
   code: css`
     margin: 0 3px;

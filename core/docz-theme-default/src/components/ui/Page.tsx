@@ -22,8 +22,8 @@ export const Container = styled.div`
   margin: 0 auto;
 
   ${mq({
-    width: ['100%', '100%', 920],
-    padding: ['20px', '0 40px 40px'],
+    width: ['100%', '100%', 1400],
+    padding: ['20px', '0 20px 20px'],
   })}
 
   ${get('styles.container')};
